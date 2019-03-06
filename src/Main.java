@@ -6,5 +6,6 @@ public class Main {
     public void testHelloWrold() {
         System.out.println("HelloWorld!");
 		int i = 10;
+	    int m = 20;
     }
 }
